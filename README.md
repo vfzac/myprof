@@ -16,6 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
+- bullet?
 - List
 
 1. Numbered
